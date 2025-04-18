@@ -1,4 +1,4 @@
-# 📄 Documentação Técnica – Calculadora Simples
+# 📄 Documentação Técnica – Calculadora
 
 Este é um projeto funcional de uma calculadora básica desenvolvida com **HTML**, **CSS** e **JavaScript puro.**  
 Permite ao usuário realizar operações matemáticas simples (adição, subtração, multiplicação e divisão) diretamente no navegador, sem necessidade de bibliotecas externas.
