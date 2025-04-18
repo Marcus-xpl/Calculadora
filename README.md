@@ -1,10 +1,9 @@
 # 📄 Documentação Técnica – Calculadora Simples
 
-## 📌 Visão Geral:  
-Este é um projeto funcional de uma calculadora básica desenvolvida com **HTML**, **CSS** e **JavaScript puro**.  
-Ela permite ao usuário realizar operações matemáticas simples (adição, subtração, multiplicação e divisão) diretamente no navegador, sem necessidade de bibliotecas externas.
+Este é um projeto funcional de uma calculadora básica desenvolvida com **HTML**, **CSS** e **JavaScript puro.**  
+Permite ao usuário realizar operações matemáticas simples (adição, subtração, multiplicação e divisão) diretamente no navegador, sem necessidade de bibliotecas externas.
 
----
+
 
 ## ⚙️ Tecnologias Utilizadas:  
 
@@ -14,7 +13,7 @@ Ela permite ao usuário realizar operações matemáticas simples (adição, sub
 | CSS3       | Estilização da interface     |
 | JavaScript | Lógica e interatividade      |
 
----
+
 
 ## 🧱 Componentes do Projeto:  
 
@@ -31,15 +30,12 @@ Ela permite ao usuário realizar operações matemáticas simples (adição, sub
 - `limpar()` – Limpa completamente o conteúdo do display.  
 - `calcular()` – Avalia a expressão matemática e exibe o resultado, ou "Erro" se inválida.
 
----
-
-## 🎯 Apresentação do Projeto:
 
 ### Objetivo  
 Construir uma calculadora funcional com interface intuitiva, utilizando apenas tecnologias básicas de front-end.  
 O foco está no reforço da manipulação de DOM, interatividade com eventos e estilo responsivo.
 
----
+
 
 ## 🧩 Desafios Enfrentados:  
 
@@ -50,4 +46,4 @@ O foco está no reforço da manipulação de DOM, interatividade com eventos e e
 | Avaliar expressões matemáticas complexas                  | Utilização de `eval()` dentro de `try...catch` para tratamento de erros. |
 | Manter visual agradável e moderno                         | Uso de cores contrastantes, sombras e transições suaves no CSS.          |
 
----
+
